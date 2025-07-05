@@ -1,0 +1,112 @@
+{
+    "9789876543210": {
+        "author": "J.K. Rowling",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9789876543210",
+        "publisher": "Bloomsbury",
+        "status": "available",
+        "title": "Harry Potter and the Philosopher's Stone",
+        "year": 1997
+    },
+    "9785556667778": {
+        "author": "Jane Austen",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9785556667778",
+        "publisher": "Penguin Classics",
+        "status": "available",
+        "title": "Pride and Prejudice",
+        "year": 1813
+    },
+    "9782223334445": {
+        "author": "Stan Lee, Jack Kirby",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9782223334445",
+        "publisher": "Marvel Comics",
+        "status": "available",
+        "title": "The Amazing Spider-Man",
+        "year": 1962
+    },
+    "9786667778889": {
+        "author": "Akira Toriyama",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9786667778889",
+        "publisher": "Shueisha",
+        "status": "available",
+        "title": "Dragon Ball Z",
+        "year": 1989
+    },
+    "9788889990001": {
+        "author": "Eiichiro Oda",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9788889990001",
+        "publisher": "Shueisha",
+        "status": "available",
+        "title": "One Piece",
+        "year": 1997
+    },
+    "9789386228567": {
+        "author": "R.K. Narayan",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9789386228567",
+        "publisher": "Indian Thought Publications",
+        "status": "available",
+        "title": "Malgudi Days",
+        "year": 1943
+    },
+    "9780143420361": {
+        "author": "Amish Tripathi",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9780143420361",
+        "publisher": "Westland",
+        "status": "available",
+        "title": "The Immortals of Meluha",
+        "year": 2010
+    },
+    "9788184001655": {
+        "author": "Ruskin Bond",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9788184001655",
+        "publisher": "Penguin India",
+        "status": "available",
+        "title": "The Room on the Roof",
+        "year": 1956
+    },
+    "9780670085702": {
+        "author": "Arundhati Roy",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9780670085702",
+        "publisher": "Penguin India",
+        "status": "available",
+        "title": "The God of Small Things",
+        "year": 1997
+    },
+    "9788172235147": {
+        "author": "Khushwant Singh",
+        "borrow_date": -1,
+        "borrower_id": -1,
+        "due_date": -1,
+        "isbn": "9788172235147",
+        "publisher": "Penguin India",
+        "status": "available",
+        "title": "Train to Pakistan",
+        "year": 1956
+    }
+}

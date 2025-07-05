@@ -1,0 +1,65 @@
+{
+    "1": {
+        "user_id": 1,
+        "name": "Sangam",
+        "type": "student",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    },
+    "2": {
+        "user_id": 2,
+        "name": "Keshav",
+        "type": "student",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    },
+    "3": {
+        "user_id": 3,
+        "name": "Shikhar",
+        "type": "student",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    },
+    "4": {
+        "user_id": 4,
+        "name": "Ashutosh",
+        "type": "student",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    },
+    "5": {
+        "user_id": 5,
+        "name": "Aryan",
+        "type": "student",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    },
+    "6": {
+        "user_id": 6,
+        "name": "Vaibhav",
+        "type": "faculty",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    },
+    "7": {
+        "user_id": 7,
+        "name": "Nirmal",
+        "type": "faculty",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    },
+    "8": {
+        "user_id": 8,
+        "name": "Akhil",
+        "type": "faculty",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    },
+    "9": {
+        "user_id": 3,
+        "name": "Sakshi",
+        "type": "librarian",
+        "fine_due": 0,
+        "borrowed_books_isbn": []
+    }
+}
